@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "973243235494",
+    "firebase_url": "https://plmkecosystem-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "plmkecosystem",
+    "storage_bucket": "plmkecosystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:407d9cfa333297656d0867",
+        "android_client_info": {
+          "package_name": "com.pilamokocorp.loadprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973243235494-84qhflpdbu501kos696ir06htqv762i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pilamokocorp.loadprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:e71eb0446901f37e6d0867",
+        "android_client_info": {
+          "package_name": "com.platinum.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973243235494-84qhflpdbu501kos696ir06htqv762i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pilamokocorp.loadprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:6d54557e2f9c59c06d0867",
+        "android_client_info": {
+          "package_name": "com.platinum.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973243235494-84qhflpdbu501kos696ir06htqv762i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pilamokocorp.loadprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:0286640d59f2ee586d0867",
+        "android_client_info": {
+          "package_name": "com.platinum.pilamokosuperappbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973243235494-84qhflpdbu501kos696ir06htqv762i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pilamokocorp.loadprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:2b09bd4954232ca56d0867",
+        "android_client_info": {
+          "package_name": "com.platinum.plmqueuer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973243235494-84qhflpdbu501kos696ir06htqv762i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pilamokocorp.loadprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:bceb6fed958ad4e16d0867",
+        "android_client_info": {
+          "package_name": "com.platinum.tlp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973243235494-84qhflpdbu501kos696ir06htqv762i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pilamokocorp.loadprovider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
